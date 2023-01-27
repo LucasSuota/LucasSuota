@@ -2,6 +2,8 @@
 # Welcome to my profile
 
 -Currently working as a full time English teacher for KNN Idiomas
+-Studying at Universidade Positivo
+-Computer Systems Analysis degree
 -Studying at the moment JS, ES6, HTML, CSS.
 -I'm looking for an internship 
 -How to contact me? Send me a message and I'll chat with you!
@@ -10,6 +12,7 @@
 # BIO:
 
 -Living in Brazil, planning to go to the capital. 
+-Currently taking 
 -I have absolutely no problem talking to people and guiding them. Work as a teacher and studying at boarding school allowed me this.
--I work very well in a team.
+-I work very well on a team.
 -I want to learn.
