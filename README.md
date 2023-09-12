@@ -1,18 +1,10 @@
-# What's Up! I'm Lucas.
-# Welcome to my profile
+# What's up? It's Lucas!
+# Front End Developer here.
 
--Currently working as a full time English teacher for KNN Idiomas
--Studying at Universidade Positivo
--Computer Systems Analysis degree
--Studying at the moment JS, ES6, HTML, CSS.
--I'm looking for an internship 
--How to contact me? Send me a message and I'll chat with you!
--Curiosities: I will become a fullstack developer even though I prefer front end. React is the next technology I'll study. /  At the moment my english level is B2, I want it to be C1, working on it. After that I'll start studying Spanish.
+-The technologies I've been working with lately are NextJS, ReactJS, Tailwind and Typescript.
+-Currently working as a full time English teacher at KNN Idiomas.
+-Studying at Universidade Positivo, Computer Systems Analysis.
 
-# BIO:
+Curiosities:
 
--Living in Brazil, planning to go to the capital. 
--Currently taking 
--I have absolutely no problem talking to people and guiding them. Work as a teacher and studying at boarding school allowed me this.
--I work very well on a team.
--I want to learn.
+-I'm currently a B2 English speaker, working to become a C1, after that I'll learn Spanish.
