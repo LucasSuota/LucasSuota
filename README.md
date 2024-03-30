@@ -1,4 +1,4 @@
-# LUCAS SUOTA: Desenvolvedor Front-end
+# LUCAS SUOTA: Desenvolvedor Fullstack
 
 ## Sobre 
 
