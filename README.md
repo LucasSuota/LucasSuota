@@ -9,11 +9,19 @@
 
 ## Bio
 
-Sou movido a resultados e amo programação e design. Trabalho a mais de um ano com React, NextJs, TypeScript, Tailwind, dentre outras ferramentas e tecnologias que me ajudam no dia a dia.
+Sou movido a resultados e amo programação. Trabalho com Java, Spring, React, JavaScript e TypeScript.
 
 Minha história com tecnologia começa desde muito cedo. De volta em 2013 eu me interessei por animações, estudei e comecei a faze-las por hobbie, aprendi Cinema 4D e After Effects. O tempo passou e em 2020 eu comecei a estudar programação com Python, logo em seguida decidi ingressar no curso CS50 de Harvard, no qual programei em C, Python, SQL e também JavaScript, além de aprender estruturas de dados, algoritmos e um pouco de tudo desse mundo de T.I.
 
-Minha decisão de me tornar Desenvolvedor Frontend é muito relacionada a eu amar design, então eu projeto e desenvolvo, porém tenho muito interesse e gosto da área backend também. As tecnologias e linguagens que eu trabalho são:
+Minha decisão de me tornar Desenvolvedor Fullstack é muito relacionada a eu amar design, então eu projeto e desenvolvo. As tecnologias e linguagens que eu trabalho são:
+
+## - Back-end
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## - Front-end:
 
@@ -27,13 +35,6 @@ Minha decisão de me tornar Desenvolvedor Frontend é muito relacionada a eu ama
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-
-## - Back-end
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## - Ferramentas
 
