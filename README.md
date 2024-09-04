@@ -2,10 +2,10 @@
 
 ## Sobre 
  
-📍 Curitiba, Paraná, Brasil
-🙋 21 anos
-📖 Formado em Análise e Desenvolvimento de Sistemas e futuro Engenheiro Eletrecista
-🗣️ Falo inglês (C1)
+-📍 Curitiba, Paraná, Brasil
+-🙋 21 anos
+-📖 Formado em Análise e Desenvolvimento de Sistemas e futuro Engenheiro Eletrecista
+-🗣️ Falo inglês (C1)
 
 ## Bio
 
