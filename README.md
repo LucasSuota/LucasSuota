@@ -11,7 +11,7 @@
 
 Prazer, me chamo Lucas!
 
-Eu absolutamente amo tecnologia e sou do tipo de pessoa que gosta de saber de tudo um pouco, obviamente algumas coisas eu procure me especializar, haha. 
+Eu absolutamente amo tecnologia e sou do tipo de pessoa que gosta de saber de tudo um pouco, obviamente algumas coisas eu procuro me especializar melhor, haha. 
 
 Atualmente estou trabalhando como Laboratorista de Obras e está sendo uma experiência bem fora do comum para mim, porém de muito aprendizado.
 
@@ -23,7 +23,7 @@ No momento estou desenvolvendo uma aplicação para um cliente em plataforma web
 
 Tenho muito interesse em IOT, e sem dúvidas programação mobile é a área que eu julgo mais interessante no meu ponto de vista, e é por isso que ela é atualmente o foco para mim em programação.
 
-Conheço: JavaScript, TypeScript, Python, um pouco de Java, além obviamente de alguns frameworks das linguagens citadas como Django, NextJs e também Spring, com meu foco sendo em NextJs. Estou estudando Kotlin para mobile.
+Conheço: JavaScript, TypeScript, Python, e previamente Java e C, conheço também alguns frameworks e bibliotecas, com minha maior experiência sendo NextJs, Atualmente estou estudando Kotlin.
 
 ## Contato
 
