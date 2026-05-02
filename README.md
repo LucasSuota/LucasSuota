@@ -1,4 +1,4 @@
-# 👋 LUCAS SUOTA: Fullstack Developer
+# 👋 LUCAS SUOTA: Fullstack Software Developer
 
 <div align="center">
   <img src="https://img.shields.io/badge/Location-Curitiba,%20Paraná,%20Brazil-blue?style=flat-square&logo=google-maps" alt="Location">
