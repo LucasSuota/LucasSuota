@@ -60,7 +60,6 @@ Estudei Engenharia Civil por um ano e meio e, durante esse período, percebi que
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6B6B?style=for-the-badge&logo=api&logoColor=white)
 
 ---
@@ -71,8 +70,6 @@ Estudei Engenharia Civil por um ano e meio e, durante esse período, percebi que
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucassuota&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassuota&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
 </div>
-
-> 💡 Ajuste o parâmetro `username` acima para o seu usuário do GitHub, caso ainda não esteja correto.
 
 ---
 
