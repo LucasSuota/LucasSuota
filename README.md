@@ -14,7 +14,6 @@
 - 📍 Baseado em **Curitiba, Paraná, Brasil**
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
 - 🗣️ Falo **Português** e **Inglês**
-- 💻 Foco em construir soluções fullstack bonitas e escaláveis
 
 Sou apaixonado por tecnologia desde criança — passei por mods de Minecraft, efeitos visuais no After Effects e Cinema 4D, edição de fotos no Photoshop, e nunca deixei de lado o lado criativo da área.
 
