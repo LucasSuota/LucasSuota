@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Lucas</h1>
+<h1 align="center">Olá, eu sou o Lucas 👋</h1>
 <h3 align="center">Fullstack Software Developer</h3>
 
 <div align="center">
@@ -16,7 +16,11 @@
 - 🗣️ Falo **Português** e **Inglês**
 - 💻 Foco em construir soluções fullstack bonitas e escaláveis
 
-Sou apaixonado por tecnologia desde criança — passei por mods de Minecraft, efeitos visuais no After Effects e Cinema 4D, edição de fotos no Photoshop, e nunca deixei de lado o lado criativo da área. Hoje, canalizo essa paixão para **criar produtos que fazem diferença de verdade**, aprendendo tecnologias de ponta e entregando código de qualidade.
+Sou apaixonado por tecnologia desde criança — passei por mods de Minecraft, efeitos visuais no After Effects e Cinema 4D, edição de fotos no Photoshop, e nunca deixei de lado o lado criativo da área.
+
+Estudei Engenharia Civil por um ano e meio e, durante esse período, percebi que poderia contribuir com essa área do meu jeito: através da programação e da inovação. Desde então, venho desenvolvendo produtos voltados para esse nicho, unindo minha vivência na construção civil com soluções tecnológicas.
+
+Hoje, canalizo essa paixão para **criar produtos que fazem diferença de verdade**, aprendendo tecnologias de ponta e entregando código de qualidade.
 
 ---
 
@@ -26,13 +30,14 @@ Sou apaixonado por tecnologia desde criança — passei por mods de Minecraft, e
 <br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 **Frontend**
 <br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
@@ -46,6 +51,7 @@ Sou apaixonado por tecnologia desde criança — passei por mods de Minecraft, e
 **Backend & Bancos de Dados**
 <br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
