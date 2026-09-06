@@ -15,11 +15,9 @@
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
 - 🗣️ Falo **Português** e **Inglês**
 
-Sou apaixonado por tecnologia desde criança — passei por mods de Minecraft, efeitos visuais no After Effects e Cinema 4D, edição de fotos no Photoshop, e nunca deixei de lado o lado criativo da área.
+Sou apaixonado por tecnologia desde criança. Instalei e editei mods de Minecraft, fiz efeitos visuais no After Effects e Cinema 4D, edição de fotos no Photoshop, e nunca deixei de lado o lado criativo da área.
 
-Estudei Engenharia Civil por um ano e meio e, durante esse período, percebi que poderia contribuir com essa área do meu jeito: através da programação e da inovação. Desde então, venho desenvolvendo produtos voltados para esse nicho, unindo minha vivência na construção civil com soluções tecnológicas.
-
-Hoje, canalizo essa paixão para **criar produtos que fazem diferença de verdade**, aprendendo tecnologias de ponta e entregando código de qualidade.
+Estudei Engenharia Civil por um ano e meio e, durante esse período, percebi que poderia contribuir com essa área do meu jeito: através da programação e da inovação. Desde então, venho desenvolvendo produtos voltados para esse nicho, unindo minha vivência na área com soluções tecnológicas.
 
 ---
 
@@ -36,13 +34,13 @@ Hoje, canalizo essa paixão para **criar produtos que fazem diferença de verdad
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
 
 **Mobile & Desktop**
 <br>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
