@@ -64,15 +64,6 @@ Estudei Engenharia Civil por um ano e meio e, durante esse período, percebi que
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=lucassuota&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassuota&layout=compact&theme=radical&hide_border=true" alt="Top Langs"/>
-</div>
-
----
-
 ## 📬 Vamos conversar!
 
 <div align="center">
